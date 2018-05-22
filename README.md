@@ -22,6 +22,10 @@ This is a web extension that changes the [Reddit](https://old.reddit.com) to som
 |Android (firefox)       |   not tested      |
 |ios (firefox)           |   not tested      |
 
+## Installation
+
+1. Follow the official mozilla [tutorial](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension#Trying_it_out)
+
 ## Contribution 
 
 Would love help on design inputs and testing on more browsers. Current objectives:
@@ -30,3 +34,4 @@ Would love help on design inputs and testing on more browsers. Current objective
 2. Get to Store
 3. Browser compatibility
 4. Responsive design considerations
+5. Deployment best practices
