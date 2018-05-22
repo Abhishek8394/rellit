@@ -2,7 +2,8 @@
 
   "manifest_version": 2,
   "name": "rellit",
-  "version": "1.0",
+  "version": "0.1",
+  "author": "apbytes",
 
   "description": "Material reddit! It's lit! Rellit!",
 
