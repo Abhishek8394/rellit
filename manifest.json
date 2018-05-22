@@ -1,0 +1,18 @@
+{
+
+  "manifest_version": 2,
+  "name": "rellit",
+  "version": "1.0",
+
+  "description": "Material reddit! It's lit! Rellit!",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.reddit.com/*"],
+      "js": ["js/jquery.3.3.1.min.js", "js/materialize.min.js", "js/main.js"],
+      "css": ["css/materialize.min.css", "css/main.css"]
+    }
+  ],
+  "incognito": "spanning"
+
+}
