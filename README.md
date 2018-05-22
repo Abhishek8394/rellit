@@ -24,7 +24,9 @@ This is a web extension that changes the [Reddit](https://old.reddit.com) to som
 
 ## Installation
 
-1. Follow the official mozilla [tutorial](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension#Trying_it_out)
+1. For usage get it from [Firefox addons](https://addons.mozilla.org/en-US/firefox/addon/rellit/)
+2. For chrome users, follow step 3 or get this [awesome browser](https://www.mozilla.org/en-US/firefox/new/) (under review)
+3. For development, clone the repo and follow the official mozilla [tutorial](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension#Trying_it_out)
 
 ## Contribution 
 
