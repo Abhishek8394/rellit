@@ -7,7 +7,7 @@ This is a web extension that changes the [Reddit](https://old.reddit.com) to som
 
 ## Sample 
 
-![screenshot](https://github.com/Abhishek8394/rellit/blob/master/samples/v0.1.png)
+![screenshot](https://github.com/Abhishek8394/rellit/blob/master/samples/v0.2_shot1.png)
 
 ## Browser compatibility
 

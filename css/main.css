@@ -1,3 +1,4 @@
+/* The entries for posts */
 .link {
 	margin: 0;
 	margin-bottom: 8px;
@@ -27,6 +28,8 @@
     font-size: x-small;
     font-family: "Roboto";
 }
+
+/* Login and search bar on side */
 #search input[type="text"],
 .login-form-side input[type="text"], .login-form-side input[type="password"]{
     border: none;
@@ -49,4 +52,37 @@
 }
 .login-form-side .btn:hover, .login-form-side .btn:focus, .login-form-side .btn:active{
 	background-color: #1976D2;
+}
+
+/* The navbar*/
+
+:root{
+    --header-bg: #90CAF9;
+}
+
+#header{
+    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2);
+    border-bottom: 0;
+    background: var(--header-bg);
+}
+
+/* navbar links hot, new, ...*/
+.tabmenu li.selected a{
+    border: 0;
+}
+
+.tabmenu li{
+    font-weight: 300;
+}
+
+.tabmenu li a{
+    background: var(--header-bg);
+    color: #000;
+}
+/* topmost bar popular, random, ...*/
+#sr-header-area, #sr-more-link{
+    background-color: #fff;
+    border-bottom: 0px;
+    font-size: 1em;
 }
